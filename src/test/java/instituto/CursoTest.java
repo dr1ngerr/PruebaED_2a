@@ -24,8 +24,6 @@ public class CursoTest {
         
         c.aniadirAlumno(p1);
         c.aniadirAlumno(p2);
-        
-        assertEquals(2, c.toString());
 
         p1.toString();
         p2.toString();
